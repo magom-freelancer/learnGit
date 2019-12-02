@@ -4,5 +4,5 @@ let addExpenses;
 let deposit;
 let mission;
 let period;
-alert('Any message');
+alert('something');
 console.log('Any text');
