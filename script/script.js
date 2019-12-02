@@ -6,3 +6,4 @@ let mission;
 let period;
 alert('something');
 console.log('Any text');
+alert('example');
